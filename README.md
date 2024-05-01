@@ -10,6 +10,10 @@ Source codes implementation of papers:
 ### Data processing
 
 to pre-process all datasets needed in this repo.
+```
+python feature_engineering/data_process*.py 
+```
+
 
 ### Training & Evalutaion
 <!-- 
