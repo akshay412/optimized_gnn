@@ -1,5 +1,5 @@
 
-A Financial Fraud Detection Framework.
+A Financial Fraud Detection Framework
 
 Source codes implementation of papers:
 - `GTAN`: Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation, in AAAI2023
